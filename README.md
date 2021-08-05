@@ -1,2 +1,3 @@
 # Data-Structure-using-CPP
-Data structure using c++ in object oriented way.
+Data structures (Linkedlist, Stsck , Queue)  using c++ in object oriented way.
+
